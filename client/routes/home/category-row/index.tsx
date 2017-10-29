@@ -63,10 +63,6 @@ class CategoryRow extends React.Component<ICategoryRowProps, ICategoryRowState> 
               <img src={`/images/fallback-${this.props.categoryName.toLowerCase()}.png`} alt={`Click for more ${this.props.categoryName} Items`} className="item-image"/>
             </span>
           </li>
-
-
-
-
         </ul>
       </li>
     );
