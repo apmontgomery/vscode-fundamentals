@@ -27,8 +27,8 @@
 ### Selection
 
 * Select All <kbd>Cmd + A</kbd>
-* Select Next Occurrence <kbd>Your KB Here</kbd>
-* Select All Occurrences <kbd>Your KB Here</kbd>
+* Select Next Occurrence <kbd>Cmd + D</kbd>
+* Select All Occurrences <kbd>Shift + Cmd + L</kbd>
 
 <br><br>
 
@@ -37,6 +37,7 @@
 * Add cursor @ position <kbd>Opt + Click</kbd>
 * Box select <kbd>Opt + Shift + Click</kbd>
 * Undo last cursor <kbd>Cmd + U</kbd>
+* Remove one cursor <kbd>Alt + Click</kbd>
 
 <br><br>
 
